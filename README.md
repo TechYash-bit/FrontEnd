@@ -28,7 +28,7 @@ Each shape changes color when hovered over.
 3. Open the `index.html` file in your browser.
 
 ## 📸 Preview  
-![Project Screenshot](screenshot(3).png) *(Add a screenshot of your project here)*  
+https://github.com/TechYash-bit/FrontEnd/blob/main/Screenshot%20(3).png
 
 ## 👨‍💻 Author  
 - **TechYash-bit** ([GitHub Profile](https://github.com/TechYash-bit))
